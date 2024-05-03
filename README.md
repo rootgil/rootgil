@@ -31,7 +31,7 @@ My journey involves delving into the world of applied machine learning to roboti
 - 🌟 Competitive programming award
 - 🌟 Best datascience project honor
 
-## Others things
+## 🚀 Others things
 - 💬 Ask me about: Dubbing, 
 - 📫 How to reach me: gillesahouantchede@gmail.com
 - 😄 Pronouns: Jay 
