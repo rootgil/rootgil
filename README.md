@@ -33,7 +33,7 @@ My journey involves delving into the world of applied machine learning to roboti
 
 ## 🚀 Others things
 - 💬 Ask me about: Dubbing, 
-- 📫 How to reach me: gillesahouantchede@gmail.com
+- 📫 How to reach me: [portfolio](https://gilles-ahouantchede.vercel.app/)
 - 😄 Pronouns: Jay 
 - ⚡ Fun fact: ... 😄 ...
 - 👯 I’m looking to collaborate on any research or open-source project about applied machine learning to (NLP, Robotics, )
