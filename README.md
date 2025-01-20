@@ -7,7 +7,8 @@ My journey involves delving into the world of applied machine learning to roboti
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working as AI Developer at [WIM](https://https://workinmusic.fr/).
+- 🌱 I'm currently Head of R&D at [DeafSync](https://www.deafsync.com/)
+- 🔭 I worked as AI Developer at [WIM](https://https://workinmusic.fr/).
 <!-- - 🌱 I'm Co-founder and CTO of [TensorUnit](https://tensorunit.com/).) -->
 - 🌐 Proud member of the [NLP Crew](https://nlpcrew.github.io/), contributing to the tech community.
 
