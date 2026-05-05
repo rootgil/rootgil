@@ -3,8 +3,6 @@
 I'm standing out for my integrity, motivation, dynamism, and exemplary work ethic. I'm constantly eager to learn and share my experiences. I'm passionate about software development, artificial intelligence, machine learning, data science, MLOPS, DevOps, Robotics and Quantum.
 My journey involves delving into the world of applied machine learning to robotics, exploring new ideas, and sharing my insights with the community.
 
-![rootgil's Stats](https://github-readme-stats.vercel.app/api?username=rootgil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🌱 I'm currently CTO at [DeafSync](https://www.deafsync.com/)
